@@ -1,5 +1,11 @@
 # TodoManagerApp
 
+
+<img src= "https://user-images.githubusercontent.com/95211952/183408067-e4abd3b9-711e-463d-93e9-49b681d07379.png" width= "300">　　
+<img src= "https://user-images.githubusercontent.com/95211952/183408076-cfa38bd3-56bb-4f6e-9cf9-882279712a2a.png" width= "300">
+
+
+
  画像。画面のスクリーンショットを2枚はる。
 
 # リポジトリ名
